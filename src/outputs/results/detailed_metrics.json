@@ -1,0 +1,9 @@
+{
+  "random_forest": {
+    "model_name": "random_forest",
+    "accuracy": 0.7906533142584645,
+    "precision": 0.8027095681625741,
+    "recall": 0.8214904679376083,
+    "f1": 0.8119914346895075,
+    "roc_auc": 0.7914791283396219,
+    "tn": 
